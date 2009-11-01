@@ -1,0 +1,20 @@
+--- 
+:header_color: aaa
+:name: testsite
+:theme: plain
+:title: Jekyll Test Site
+
+permalink: /:year/:month/:day/:title.html
+
+exclude:
+  - README.textile
+  - Capfile
+  - Rakefile
+  - config
+  - tasks
+  - config.yml
+  
+sass: true
+haml: true
+post_defaults:
+  layout: post
