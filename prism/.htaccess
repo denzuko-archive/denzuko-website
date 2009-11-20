@@ -1,0 +1,12 @@
+AddType application/x-prism .webapp
+SetEnv TZ America/Denver
+
+# Anti-Hotlinking
+RewriteCond %{HTTP_REFERER} !^$
+RewriteCond %{HTTP_REFERER} !^http://denzuko.github.com.*$ [NC]
+RewriteRule \.(ico|pdf|flv|jpg|jpeg|mp3|png|gif|swf|css|js|webapp)$ - [F]
+
+#Redirect Hotlinkers
+RewriteCond %{HTTP_REFERER} !^$
+RewriteCond %{HTTP_REFERER} !^http://denzuko.github.com.*$ [NC]
+RewriteRule \.(ico|pdf|flv|jpg|jpeg|mp3|png|gif|swf|css|js|webapp)$ http://denzuko.github.com [R]
