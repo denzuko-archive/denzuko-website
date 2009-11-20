@@ -1,6 +1,8 @@
 AddType application/x-prism .webapp
 SetEnv TZ America/Denver
 
+RewriteEngine On
+
 # Anti-Hotlinking
 RewriteCond %{HTTP_REFERER} !^$
 RewriteCond %{HTTP_REFERER} !^http://denzuko.github.com.*$ [NC]
