@@ -2,4 +2,4 @@
 layout: post
 title: Introductions
 ---
-Who and what is a Dwight Spencer. Well
+Who and what is a Dwight Spencer. Well that is both hard ahd
