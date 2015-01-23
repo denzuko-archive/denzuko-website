@@ -9,4 +9,4 @@ On one hand there is the geeky hacker that is always tinkering, loves shadowrun,
   
 On another hand there is the serious professional who's always out to get things done for the client. Many business contacts know this side of Dwight Spencer.  
   
-On the final hand, yes three hands because any more than that and we'll have to look like some
+On the final hand, yes three hands because any more than that and we'll have to look like some hindi de
