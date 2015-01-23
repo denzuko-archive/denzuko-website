@@ -9,6 +9,6 @@ On one hand there is the geeky hacker that is always tinkering/inventing, loves 
   
 On another hand there is the serious professional who's always out to get things done for the client. Many business contacts know this side of Dwight Spencer.  
   
-On the final hand, yes three hands because any more than that and this Dwight Spencer would start to look like some ancient Hindi deity, there is the funny, quick witted and strongly devoted family man.  
+On the final hand, yes three hands because any more than that and this Dwight Spencer would start to look like some ancient Hindi deity, there is the funnyquick witted and strongly devoted family man.  
   
 In either case this blog will document my passions and ideas so one would see a portion of each.
