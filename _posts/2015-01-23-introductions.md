@@ -7,4 +7,4 @@ Who and what is a Dwight Spencer. Well that is both hard and easy to define depe
   
 On one hand there is the geeky hacker that is always tinkering, loves shadowrun, urban adventuring and street racing. My friends know this facet very well.  
   
-On another hand ther
+On another hand there is the serious professio
